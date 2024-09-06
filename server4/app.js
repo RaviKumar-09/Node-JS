@@ -1,3 +1,5 @@
+require('./calc')
+
 
 result = add(4,5)
 
